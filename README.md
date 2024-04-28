@@ -1,5 +1,8 @@
 # Research-Trends-in-Science-Papers
 
+In the ever-evolving landscape of academic research, the ability to identify and understand emerg-ing trends is paramount for scholars, institutions, and industry stakeholders alike. The exponential growth of scholarly publications, particularly in fields such as computer science, has necessitated the development of sophisticated methodologies to effectively sift through vast repositories of knowledge. 
+This project describes the process and results of a comprehensive analysis aimed at uncovering current trends within a large dataset of research papers using unsupervised machine learning techniques such as Natural Language Processing and hierarchical clustering. 
+
 ## Installation
 
 ### Requirements: 
